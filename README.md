@@ -3,4 +3,8 @@ Repositório em que postarei algumas soluções de exercícios da disciplina A.E
 
 Cria Frases:
 
-Algoritmo implementado em java para criar um arquivo .txt em uma pasta desejada e escrever um certo número de frases dentro do arquivo.
+Algoritmo implementado em Java para criar um arquivo .txt em uma pasta desejada e escrever um certo número de frases dentro do arquivo.
+
+Cria Arquivo Binario:
+
+Algoritmo em Java que cria um arquivo .bin e armazena numeros inteiros aleatorios e em quantidades tambem aleatorias, alem de cada numero ter uma chance de se repetir um certo numero de vezes.
